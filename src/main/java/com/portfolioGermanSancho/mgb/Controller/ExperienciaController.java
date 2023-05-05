@@ -55,14 +55,14 @@ public class ExperienciaController {
     }
     
     @PostMapping("/create")
-    public ResponseEntity<?> create(@RequestBody DTOExperiencia dtoexp){      
-        if(StringUtils.isBlank(dtoexp.getNombreE()))
+    public ResponseEntity<?> create(@RequestBody DTOExperiencia dtoex){      
+        if(StringUtils.isBlank(dtoex.getNombreE()))
             return new ResponseEntity(new Mensaje("El nombre es obligatorio"), HttpStatus.BAD_REQUEST);
-        if(sExperiencia.existsByNombreE(dtoexp.getNombreE()))
+        if(sExperiencia.existsByNombreE(dtoex.getNombreE()))
             return new ResponseEntity(new Mensaje("Esa experiencia existe"), HttpStatus.BAD_REQUEST);
         
-        Experiencia experiencia = new Experiencia(dtoexp.getNombreE(), dtoexp.getEmpresaE(), 
-            dtoexp.getDescripcionE(), dtoexp.getInicioE(), dtoexp.getFinalE());
+        Experiencia experiencia = new Experiencia(dtoex.getNombreE(), dtoex.getEmpresaE(), 
+            dtoex.getDescripcionE(), dtoex.getInicioE(), dtoex.getFinalE());
         sExperiencia.save(experiencia);
         
         return new ResponseEntity(new Mensaje("Experiencia agregada"), HttpStatus.OK);
