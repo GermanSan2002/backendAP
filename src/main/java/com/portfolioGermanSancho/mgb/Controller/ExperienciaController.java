@@ -26,7 +26,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/explab")
-@CrossOrigin(origins = {"https://mgbfrontend.web.app","http://localhost:4200"})
+@CrossOrigin(origins = {"https://backendap-r91c.onrender.com","http://localhost:4200"})
 public class ExperienciaController {
     @Autowired
     SExperiencia sExperiencia;
