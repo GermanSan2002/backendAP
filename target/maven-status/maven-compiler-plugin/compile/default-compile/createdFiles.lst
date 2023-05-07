@@ -1,8 +1,10 @@
 com\portfolioGermanSancho\mgb\Controller\EstudioController.class
 com\portfolioGermanSancho\mgb\Security\Dto\LoginUsuario.class
 com\portfolioGermanSancho\mgb\Entity\Estudio.class
+com\portfolioGermanSancho\mgb\Repository\RHyS.class
 com\portfolioGermanSancho\mgb\Security\Controller\Mensaje.class
 com\portfolioGermanSancho\mgb\Security\Entity\Rol.class
+com\portfolioGermanSancho\mgb\Entity\HyS.class
 com\portfolioGermanSancho\mgb\Security\Service\UserDetailsImpl.class
 com\portfolioGermanSancho\mgb\Entity\Experiencia.class
 com\portfolioGermanSancho\mgb\Security\jwt\JwtTokenFilter.class
@@ -16,7 +18,9 @@ com\portfolioGermanSancho\mgb\Service\ImpPersonaService.class
 com\portfolioGermanSancho\mgb\DTO\DTOExperiencia.class
 com\portfolioGermanSancho\mgb\Security\Dto\JwtDto.class
 com\portfolioGermanSancho\mgb\Security\Entity\Usuario.class
+com\portfolioGermanSancho\mgb\DTO\DTOHyS.class
 com\portfolioGermanSancho\mgb\Security\jwt\JwtEntryPoint.class
+com\portfolioGermanSancho\mgb\Controller\HySContreller.class
 com\portfolioGermanSancho\mgb\Security\Repository\iRolRepository.class
 com\portfolioGermanSancho\mgb\Security\Enums\RolNombre.class
 com\portfolioGermanSancho\mgb\Security\Repository\iUsuarioRepository.class
@@ -30,6 +34,7 @@ com\portfolioGermanSancho\mgb\config\CorsConfig.class
 com\portfolioGermanSancho\mgb\Service\SExperiencia.class
 com\portfolioGermanSancho\mgb\DTO\DTOPersona.class
 com\portfolioGermanSancho\mgb\Controller\ExperienciaController.class
+com\portfolioGermanSancho\mgb\Service\SHyS.class
 com\portfolioGermanSancho\mgb\Entity\Persona.class
 com\portfolioGermanSancho\mgb\Repository\REstudio.class
 com\portfolioGermanSancho\mgb\Security\Entity\UsuarioPrincipal.class

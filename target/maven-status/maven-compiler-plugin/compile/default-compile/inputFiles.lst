@@ -9,6 +9,7 @@ C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGe
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Service\SExperiencia.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Service\RolService.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\MgbApplication.java
+C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Repository\RHyS.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Controller\PersonaController.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Entity\Experiencia.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\config\CorsConfig.java
@@ -20,14 +21,18 @@ C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGe
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Repository\IPersonaRepository.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Repository\RExperiencia.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Controller\AuthController.java
+C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\DTO\DTOHyS.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Dto\JwtDto.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Service\ImpPersonaService.java
+C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Service\SHyS.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Service\UsuarioService.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Service\UserDetailsImpl.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\DTO\DTOPersona.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\jwt\JwtTokenFilter.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\jwt\JwtEntryPoint.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\DTO\DTOEstudio.java
+C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Controller\HySContreller.java
+C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Entity\HyS.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Controller\Mensaje.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Controller\ExperienciaController.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Service\SEstudio.java
