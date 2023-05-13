@@ -66,7 +66,7 @@ public class HySContreller {
         }
         
         HyS hys = new HyS(
-                dtoHyS.getNombre(), dtoHyS.getPorcentaje(), dtoHyS.getImg()
+                dtoHyS.getNombre(), dtoHyS.getPorcentaje()
             );
         sHyS.save(hys);
         return new ResponseEntity(new Mensaje("Habilidad creada"), HttpStatus.OK);
@@ -88,7 +88,6 @@ public class HySContreller {
         
         hyS.setNombre(dtoHyS.getNombre());
         hyS.setPorcentaje(dtoHyS.getPorcentaje());
-        hyS.setImg(dtoHyS.getImg());
         
         sHyS.save(hyS);
         
