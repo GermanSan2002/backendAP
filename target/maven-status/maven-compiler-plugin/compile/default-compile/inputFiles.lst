@@ -4,9 +4,11 @@ C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGe
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Repository\REstudio.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Dto\LoginUsuario.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Repository\iUsuarioRepository.java
+C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\DTO\DTOProyecto.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Controller\EstudioController.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Dto\NuevoUsuario.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Service\SExperiencia.java
+C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Entity\Proyecto.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Service\RolService.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\MgbApplication.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Repository\RHyS.java
@@ -16,7 +18,9 @@ C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGe
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\jwt\JwtProvider.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Entity\UsuarioPrincipal.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\MainSecurity.java
+C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Service\SProyecto.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Entity\Persona.java
+C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Repository\RProyecto.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Entity\Usuario.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Repository\IPersonaRepository.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Repository\RExperiencia.java
@@ -25,6 +29,7 @@ C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGe
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Dto\JwtDto.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Service\ImpPersonaService.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Service\SHyS.java
+C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Controller\ProyectoController.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Service\UsuarioService.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\Security\Service\UserDetailsImpl.java
 C:\Users\Usuario\Documents\APPortfolio\backend\mgb\src\main\java\com\portfolioGermanSancho\mgb\DTO\DTOPersona.java
